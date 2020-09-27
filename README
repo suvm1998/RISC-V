@@ -1,0 +1,6 @@
+The mentioned code is in TL-Verilog. The reason to use TL-Verilog instead of Verilog/VHDL is that the structuring of pipelining blocks is alot efficient to code and debug in TL-Verilog.
+
+Step 1: Open link: https://myth1.makerchip.com/sandbox?code_url=https:%2F%2Fraw.githubusercontent.com%2Fstevehoover%2FRISC-V_MYTH_Workshop%2Fmaster%2Frisc-v_shell.tlv
+Step 2: Copy the code in the script file
+Step 3: The Waveform tab would show the expected outcome and Diagram would fetch the circuit visualization
+
